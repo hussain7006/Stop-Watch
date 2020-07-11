@@ -18,6 +18,9 @@ body {
 h1 {
     display: inline-block;
 }
+h3 {
+    color: darkorange;
+}
 button {
     background-color: salmon;
     width: 100%;
